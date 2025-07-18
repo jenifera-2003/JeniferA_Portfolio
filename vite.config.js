@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/pedrotech-portfolio",
+  base: "/JeniferA_Portfolio",//this is the public base path
 });
